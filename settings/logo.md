@@ -24,7 +24,7 @@ The raster logo image. The size is just for reference, the system will display t
 
 | Type | Default |
 | ---- | ------- |
-| PNG  | 314x48  |
+| PNG  | 314x60  |
 
 ## Logo height
 
